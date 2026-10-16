@@ -1,0 +1,13 @@
+Environment: Python 3.13.5; coverage 7.13.3 (verification environment, not pinned lab environment)
+............
+----------------------------------------------------------------------
+Ran 12 tests in 0.003s
+
+OK
+
+Name             Stmts   Miss  Cover   Missing
+----------------------------------------------
+gps_service.py       3      1    67%   7
+yummy_app.py        30      0   100%
+----------------------------------------------
+TOTAL               33      1    97%
